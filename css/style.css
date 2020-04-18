@@ -1,0 +1,52 @@
+body {
+    margin: auto;
+    font-family: 'Lato', sans-serif;
+}
+
+header {
+    background: linear-gradient(#5063EB, #2DD673);
+    height: 610px;
+    margin-bottom: 15px;
+}
+
+h1 {
+    margin-top: 2rem;
+    font-size: 5em;
+}
+
+body>header>div>div>div:nth-child(2)>p {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    font-size: 1.3rem;
+    font-family: 'Varela Round', sans-serif;
+}
+
+body>header>div.row.row-cols-1.row-cols-md-3>div:nth-child(1)>div>div>h5 {
+    font-family: 'Lato', sans-serif;
+    color: black;
+}
+
+body>header>div.row.row-cols-1.row-cols-md-3>div:nth-child(2)>div>div>h5 {
+    font-family: 'Lato', sans-serif;
+    color: black;
+}
+
+body>header>div.row.row-cols-1.row-cols-md-3>div:nth-child(3)>div>div>h5 {
+    font-family: 'Lato', sans-serif;
+    color: black;
+}
+
+body>header>div.row.row-cols-1.row-cols-md-3>div:nth-child(1)>div>div>p {
+    font-family: 'Varela Round', sans-serif;
+    color: black;
+}
+
+body>header>div.row.row-cols-1.row-cols-md-3>div:nth-child(2)>div>div>p {
+    font-family: 'Varela Round', sans-serif;
+    color: black;
+}
+
+body>header>div.row.row-cols-1.row-cols-md-3>div:nth-child(3)>div>div>p {
+    font-family: 'Varela Round', sans-serif;
+    color: black;
+}
